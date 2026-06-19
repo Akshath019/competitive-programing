@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - Educational DP Contest/A___Frog_1" />
+      <excludeFolder url="file://$MODULE_DIR$/AtCoder - Educational DP Contest/B___Frog_2" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 886 Div 4/D_Balanced_Round" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 911 Div 2/A_Cover_in_Water" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Educational Codeforces Round 158 Rated for Div 2/A_Line_Trip" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 909 Div 3/A_Game_with_Integers" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - CodeTON Round 7 Div 1  Div 2 Rated Prizes/A_Jagged_Swaps" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 906 Div 2/A_Doremys_Paint_3" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 903 Div 3/A_Dont_Try_to_Count" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 900 Div 3/A_How_Much_Does_Daytona_Cost" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 902 Div 2 based on COMPFEST 15 - Final Round/A_Goals_of_Victory" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 898 Div 4/C_Target_Practice" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - COMPFEST 15 - Preliminary Online Mirror Unrated ICPC Rules Teams Preferred/A_Ambitious_Kid" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 892 Div 2/A_United_We_Stand" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 893 Div 2/A_Buttons" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 887 Div 2/A_Desorting" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 891 Div 3/A_Array_Coloring" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Educational Codeforces Round 151 Rated for Div 2/A_Forbidden_Integer" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Educational Codeforces Round 149 Rated for Div 2/A_Grasshopper_on_a_Line" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 879 Div 2/A_Unit_Array" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 871 Div 4/B_Blank_Space" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 875 Div 2/A_Twin_Permutations" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
