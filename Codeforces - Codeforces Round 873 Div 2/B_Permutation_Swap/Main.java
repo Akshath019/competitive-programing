@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Main {
+public class Main {
 
     static int gcd(int a, int b) {
         if (b == 0)
